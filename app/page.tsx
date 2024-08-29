@@ -21,19 +21,19 @@ function Features() {
     {
       id: 1,
       name: "Centralized Component Library",
-      icon: <StorageRoundedIcon classname="text-sky-500 text-[32px]" />,
+      icon: <StorageRoundedIcon className="text-sky-500 text-[32px]" />,
       description: `Organize all your React components in a centralized library. Easily browse, search, and access your saved components whenever you need them`,
     },
     {
       id: 2,
       name: "Reusable Components",
-      icon: <CodeRoundedIcon classname="text-sky-500 text-[32px]" />,
+      icon: <CodeRoundedIcon className="text-sky-500 text-[32px]" />,
       description: `Create and edit your React components directly within our intuitive editor. Write JSX code with syntax highlighter and instant preveiws`,
     },
     {
       id: 3,
       name: "Version Control & History",
-      icon: <ChangeHistoryRoundedIcon classname="text-sky-500 text-[32px]" />,
+      icon: <ChangeHistoryRoundedIcon className="text-sky-500 text-[32px]" />,
       description: `Create and edit your React components directly within our intuitive editor. Write JSX code with syntax highlighter and instant preveiws`,
     },
   ];
