@@ -1,5 +1,5 @@
 import mongoose ,{Document, Schema} from 'mongoose'
-import { type } from 'os'
+
 
 const userSchema = new mongoose.Schema({
     clerkUserId:{type:String,unique:true,required:true},
